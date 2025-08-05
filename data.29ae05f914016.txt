@@ -1,0 +1,1 @@
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/content_scripts/outlook/outlook-fte.js

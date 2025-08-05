@@ -1,0 +1,1 @@
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/content_scripts/express/gmail/gmail-express-fte.js
